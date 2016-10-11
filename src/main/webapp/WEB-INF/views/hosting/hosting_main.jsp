@@ -5,7 +5,7 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <c:set var="context" value="<%=request.getContextPath()%>" />
 <c:set var="img" value="${context}/resources/img" />
-<c:set var="css" value="${context}/resources/css" />
+<c:set var="css" value="${context}/resources/css"/>
 <c:set var="js" value="${context}/resources/js"/>
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <link rel="stylesheet" href="${css}/hosting.css" />
