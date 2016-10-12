@@ -8,6 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div id="host_regist_div_page1">
 <div id="host_regist_div_left1">
 	<div id="host_regist_div_left4">
 		<h1>호스트가 될 준비를 시작해보세요.</h1><br>
@@ -45,4 +46,5 @@
 </div>
 <div id="host_regist_div_right1">
 <img src="${img}/host_regist_1.jpg" alt="" style="margin-top:10%; margin-left:10%;"/>
+</div>
 </div>

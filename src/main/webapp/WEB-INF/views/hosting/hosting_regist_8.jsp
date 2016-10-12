@@ -8,6 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div id="host_regist_div_page5">
 <div id="host_regist_div_left3">
 	<div id="host_regist_div_left4">
 		<h2>숙소 설명을 작성하세요</h2><br>
@@ -26,4 +27,5 @@
 			내용은 나중에 수정하거나 추가하실 수 있습니다.</h5><br>
 		</div>
 	</div>
+</div>
 </div>

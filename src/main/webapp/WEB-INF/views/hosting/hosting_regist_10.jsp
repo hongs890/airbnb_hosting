@@ -8,6 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div id="host_regist_div_page2">
 <div id="host_regist_div_left3">
 	<div id="host_regist_div_left4">
 		<h2>게스트가 지켜야 할 숙소 이용규칙을 정하세요</h2><br>
@@ -29,7 +30,7 @@
 			<img src="${img}/host_regist_right.jpg" alt="" /><br><br>
 			<h5>에어비앤비의 필수 요건을 충족하고 숙소 이용규칙에 동의해야 숙소를 예약할 수 있습니다.
 			즉시 예약으로 숙소를 예약한 게스트가 숙박 전이나 도중에 숙소 이용규칙을 어기면 페널티 없이 예약을 취소할 수 있습니다.</h5><br>
-
 		</div>
 	</div>
+</div>
 </div>

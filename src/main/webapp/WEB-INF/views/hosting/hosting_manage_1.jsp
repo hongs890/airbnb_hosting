@@ -9,6 +9,7 @@
 <c:set var="js" value="${context}/resources/js"/>
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <link rel="stylesheet" href="${css}/hosting.css" />
+<div id="host_regist_div_page6">
 <div id="host_manage_div_left1">
 	<div id="host_manage_div_left2">
 		<h4><b>숙소 목록</b></h4><br>
@@ -33,5 +34,5 @@
 				<input type="button" value="미리보기" class="btn btn-default">
 			</div> 
 		</div>
-	
+</div>
 </div>

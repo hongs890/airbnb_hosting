@@ -8,6 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div id="host_regist_div_page4">
 <div id="host_regist_div_left3">
 	<div id="host_regist_div_left4">
 		<h2>어떤 편의시설을 제공하시나요?</h2><br>	
@@ -43,7 +44,7 @@
 			<h5>필수품목을 제공하면 게스트가 내 집처럼 편안하게 머물 수 있습니다.<br><br>
 			일부 호스트는 조식 또는 커피와 차만 제공하기도 합니다. 필수 사항은 아니지만, 
 			이런 서비스를 제공하면 게스트가 보다 환영받는다고 느낄 수 있습니다.</h5><br>
-
 		</div>
 	</div>
+</div>
 </div>

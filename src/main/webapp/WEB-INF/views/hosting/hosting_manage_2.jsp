@@ -18,6 +18,7 @@
 <script src= "${js}/hosting_moment-2.2.1.js"></script>
 <script src="${js}/hosting_clndr.js"></script>
 <script src="${js}/hosting_site.js"></script>
+<div id="host_regist_div_page7">
 <div id="host_manage_detail_left1">
 	<h5>호스팅</h5>
 	<h6><a href="${context}/hosting/manage_2">달력</a></h6>
@@ -138,5 +139,6 @@
 			<input type="text"><br>
 		</div>
 	</div>
+</div>
 </div>
 	

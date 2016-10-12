@@ -9,6 +9,7 @@
 <c:set var="js" value="${context}/resources/js"/>
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <link rel="stylesheet" href="${css}/hosting.css" />
+<div id="host_regist_div_page8">
 <div id="host_manage_detail_left1_1">
 	<h5>호스팅</h5>
 	<h6><a href="${context}/hosting/manage_2">달력</a></h6>
@@ -75,4 +76,5 @@
 	<div id="host_manage_detail_right3_1">
 	&nbsp;
 	</div>
+</div>
 </div>

@@ -11,6 +11,9 @@
 <html lang="en">
 <head>
 	<title><tiles:getAsString name="title"/></title>
+	 <link href="https://a1.muscache.com/airbnb/static/packages/common_o2.1-50a45a2f41dab81f98765e60188dc94c.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="https://a0.muscache.com/airbnb/static/packages/common-c797852784aa37fdff8ec44a848e3d10.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://a1.muscache.com/airbnb/static/p1/main-98647fa0df25654edefa1bcc99c20a4f.css" media="screen" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="${css}/application.css" type="text/css"/>
 	<link rel="stylesheet" href="${css}/hosting.css" type="text/css"/>
 	<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">

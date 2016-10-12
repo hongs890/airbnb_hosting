@@ -8,6 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div id="host_regist_div_page5">
 <div id="host_regist_div_left5"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
 <div id="host_regist_div_center1">
 	<div id="host_regist_div_center2">
@@ -20,3 +21,4 @@
 	</div>
 </div>
 <div id="host_regist_div_right5">&nbsp;</div>
+</div>

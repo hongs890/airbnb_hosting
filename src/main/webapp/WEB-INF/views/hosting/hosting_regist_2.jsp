@@ -8,6 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div id="host_regist_div_page2">
 <div id="host_regist_div_left3">
 	<div id="host_regist_div_left4">
 		<h2>숙소에 얼마나 많은 인원을 수용할 수 있나요?</h2><br>	
@@ -29,4 +30,5 @@
 			<h5>회원님 숙소의 침대 수와 종류에 따라 몇 명의 인원이 불편함 없이 머물 수 있는지가 결정됩니다.</h5>
 		</div>
 	</div>
+</div>
 </div>

@@ -8,7 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-
+<div id="host_regist_div_page2">
 <div id="host_regist_div_left3">
 	<div id="host_regist_div_left4">
 		<h2>게스트가 어떤 공간을 사용할 수 있나요?</h2><br>	
@@ -25,7 +25,7 @@
 		<a href="${context}/hosting/regist_7"><input type="button" value="다음" class="btn btn-danger" id="host_regist_next"></a>
 	</div>
 </div>
-<div id="host_regist_div_right2_4">
+<div id="host_regist_div_right2">
 	<div id="host_regist_div_right3">
 		<div id="host_regist_div_right4">
 			<img src="${img}/host_regist_right.jpg" alt="" /><br><br>
@@ -33,4 +33,5 @@
 
 		</div>
 	</div>
+</div>
 </div>

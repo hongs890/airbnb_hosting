@@ -8,6 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div id="host_regist_div_page2">
 <div id="host_regist_div_left3">
 	<div id="host_regist_div_left4">
 		<h2>기본 요금</h2><br>
@@ -28,4 +29,5 @@
 
 		</div>
 	</div>
+</div>
 </div>
