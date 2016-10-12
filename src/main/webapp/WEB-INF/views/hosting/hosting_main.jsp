@@ -9,13 +9,13 @@
 <c:set var="js" value="${context}/resources/js"/>
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <link rel="stylesheet" href="${css}/hosting.css" />
-<div id="host_main_top_pic" style="background-image:url(${img}/host_main.jpg);"><br/>
+<div id="host_main_top_pic"><br/>
 	<div id="host_main_top1">
 		<div id="host_main_top2">
 			<h1 style="color:white;"><b><br>에어비앤비<br>호스트가 되어<br>부수입을<br>올리세요.</b><br><br></h1>
 			<h4 style="color:white;">집 수리비를 모으고 꿈에 그리던 <br>여행을 떠나는 등 호스팅 부수입으로 <br>꿈을 이루세요.</h4><br><br>
 			<a href="${context}/hosting/regist_1"><input type="button" value="호스팅 시작하기" class="btn btn-danger"></a>
-			<a href="${context}/hosting/regist_1"><input type="button" value="호스팅 관리하기(임시버튼)" class="btn btn-danger"></a><br><br><br>
+			<a href="${context}/hosting/manage_1"><input type="button" value="호스팅 관리하기(임시버튼)" class="btn btn-danger"></a><br><br><br>
 		</div>
 	</div>
 <br/>

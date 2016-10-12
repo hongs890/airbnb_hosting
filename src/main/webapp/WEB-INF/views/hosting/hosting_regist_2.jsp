@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <div id="host_regist_div_left3">
 	<div id="host_regist_div_left4">
-		<h2>숙소에 얼마나 많은 인원을 수용할 수 <br>있나요?</h2><br>	
+		<h2>숙소에 얼마나 많은 인원을 수용할 수 있나요?</h2><br>	
 		<input type="text" value="침대 1개" id="host_regist_count">
 		<input type="button" value="+" class="btn btn-default" id="host_regist_cal"><input type="button" value="-" class="btn btn-default" id="host_regist_cal"><br><br><br><br><br>
 		<h2>욕실은 몇 개인가요?</h2><br>

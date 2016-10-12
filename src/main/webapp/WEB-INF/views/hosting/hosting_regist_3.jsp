@@ -13,7 +13,7 @@
 		<h2>숙소의 위치를 알려주세요.</h2><br>	
 		<h4>국가</h4>
 		<select id="host_regist_select1">
-			<option>한국　　　　　</option>
+			<option>한국</option>
 		</select><br><br>
 		<div style="float:left; width:50%;">
 			<h4>도시</h4>
@@ -34,7 +34,7 @@
 		<a href="${context}/hosting/regist_4"><input type="button" value="다음" class="btn btn-danger" id="host_regist_next"></a>
 	</div>
 </div>
-<div id="host_regist_div_right2">
+<div id="host_regist_div_right2_1">
 	<div id="host_regist_div_right3">
 		<div id="host_regist_div_right4">
 			<img src="${img}/host_regist_right.jpg" alt="" /><br><br>

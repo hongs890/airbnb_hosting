@@ -8,7 +8,7 @@
 <c:set var="css" value="${context}/resources/css" />
 <link rel="stylesheet" href="${css}/hosting.css" />
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<div id="host_regist_div_left3">
+<div id="host_regist_div_left1">
 	<div id="host_regist_div_left4">
 		<h1>호스트가 될 준비를 시작해보세요.</h1><br>
 		<h6 style="color:grey">1단계</h6><br>
@@ -37,12 +37,12 @@
 		</select><br><br>
 		<h3>숙소의 건물 유형을 알려주세요.</h3><br>
 		<select id="host_regist_select1">
-			<option>하나를 선택해주세요.　　　　　</option>
+			<option>하나를 선택해주세요.</option>
 		</select><br><br><hr>
 		<a href="${context}/"><input type="button" value="뒤로" class="btn btn-info" id="host_regist_prev"></a>
 		<a href="${context}/hosting/regist_2"><input type="button" value="다음" class="btn btn-danger" id="host_regist_next"></a>
 	</div>
 </div>
-<div id="host_regist_div_right2">
+<div id="host_regist_div_right1">
 <img src="${img}/host_regist_1.jpg" alt="" style="margin-top:10%; margin-left:10%;"/>
 </div>

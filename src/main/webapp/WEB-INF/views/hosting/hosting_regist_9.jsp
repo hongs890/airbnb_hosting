@@ -19,7 +19,7 @@
 </div>
 <div id="host_regist_div_right2">
 	<div id="host_regist_div_right3">
-		<div id="host_regist_div_right4">
+		<div id="host_regist_div_right6">
 			<img src="${img}/host_regist_right.jpg" alt="" /><br><br>
 			<h5>주변 숙소의 몇 가지 예를 보여드립니다.</h5><br>
 			<div style="float:left; width:50%;">
